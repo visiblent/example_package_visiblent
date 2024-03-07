@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "example_package_visiblent"
-version = "0.0.2"
+version = "0.0.3"
 authors = [
   { name="visiblent", email="sind.b.7@gmail.com" },
 ]
@@ -22,3 +22,5 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://github.com/visiblent/example_package_visiblent"
+Repository = "https://github.com/visiblent/example_package_visiblent.git"
+Source = "https://github.com/visiblent/example_package_visiblent"
